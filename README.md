@@ -43,3 +43,13 @@
 2. Extract the .zip file in any folder or wherever you want
 3. Run install.bat
 4. Type ``oneclean`` in command prompt to use oneclean
+
+---
+
+## 🔨 Build from source
+
+If you'd like to build it from the repo instead of downloading from releases:
+
+1. ``git clone https://github.com/FakePancak3/oneclean``
+2. ``cd oneclean``
+3. ``python -m PyInstaller --onefile --icon=1.ico oneclean.py``
