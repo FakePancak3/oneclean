@@ -29,4 +29,7 @@
 
 ## 🚀 Installation
 
-1. **Clone or Download** this repository:
+1. Install the latest release from https://github.com/FakePancak3/oneclean/releases
+2. Extract the .zip file in any folder or wherever you want
+3. Run install.bat
+4. Type ``oneclean`` in command prompt to use oneclean
