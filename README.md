@@ -49,7 +49,7 @@
 ## 🔨 Build from source
 
 If you'd like to build it from the repo instead of downloading from releases:
-(WILL NOT ADD IT TO PATH)
+(Drag ``install.bat`` into /dist after building to add it to PATH)
 
 1. ``git clone https://github.com/FakePancak3/oneclean``
 2. ``cd oneclean``
