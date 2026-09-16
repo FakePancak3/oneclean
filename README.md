@@ -8,10 +8,10 @@
 </div>
 
 <p align="center">
-  <a href="https://discord.com/users/1131858354642358394" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/platform-windows-blue?style=for-the-badge" alt="idk" />
   </a>
-  <a href="https://instagram.com/actually.alwin" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/license-mit-yellow?style=for-the-badge" alt="license" />
   </a>
 </p>
